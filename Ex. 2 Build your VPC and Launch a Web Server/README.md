@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Jaishikaa . S
+* **Register Number**: 212224060103
+* **Date of Submission**: 21/06/26
 
 ---
 
@@ -87,11 +87,11 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. creating a vpc to isolate network
+2. creatinf a public subnet and receiveing a ip address
+3. create and attaching the gateway
+4. route table and lauch ec2 instance
+5. configure web server and create a html page usning ip address
 
 ---
 
@@ -99,21 +99,18 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
-
----
+<img width="1445" height="630" alt="cc lab 2" src="https://github.com/user-attachments/assets/179737ae-4655-484d-b40b-e72a89897881" />
 
 ### Screenshot 2: EC2 Instance Running
 
-(Insert Screenshot Here)
 
----
+<img width="1561" height="692" alt="cloud 2" src="https://github.com/user-attachments/assets/65269ea4-aef9-4947-a603-a47ca52a779c" />
+
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+<img width="1320" height="485" alt="cloud com lab 2" src="https://github.com/user-attachments/assets/21c70cf1-f275-4018-9395-749859265bc2" />
 
----
 
 ## Result 
 

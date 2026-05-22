@@ -99,8 +99,13 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 (Write the steps you followed in your own words)
 
 1.The EC2 Dashboard was accessed through the AWS Management Console to explore its various features. 
-2.A new EC2 instance was launched using the Amazon Linux 2 AMI and the t2.micro instance type for free-tier eligibility. 3.The security group was configured to allow SSH access from the specified IP address and HTTP access from all IPs. 
+
+2.A new EC2 instance was launched using the Amazon Linux 2 AMI and the t2.micro instance type for free-tier eligibility.
+
+3.The security group was configured to allow SSH access from the specified IP address and HTTP access from all IPs.
+
 4.The instance was connected via SSH using the downloaded key pair, and basic operations such as stop, start, and reboot were performed. 
+
 5.Finally, the instance was monitored using the Monitoring tab before being terminated to avoid additional charges.
 
 ---
